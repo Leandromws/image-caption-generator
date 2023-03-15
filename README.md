@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Leandromws 
-Leandromws
-/
-image-caption-generator
-Private
-Cannot fork because you own this repository and are not a member of any organizations.
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Settings
-image-caption-generator/README.md
-@Leandromws
-Leandromws Update README.md
-Latest commit c6cd802 1 hour ago
- History
- 1 contributor
-30 lines (17 sloc)  1.93 KB
-
 # README - Python application for image analysis and caption generation using the Google Vision API and ChatGPT
 
 ## Description
