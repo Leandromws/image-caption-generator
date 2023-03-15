@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "eighth-upgrade-379903",
+  "private_key_id": "40868f3db38a1110bc15d25c92bacab6b47da18f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCi3aHrNAm8JS6F\nJlWHmAkmafdljU+H5Lh1PgyVD5jIwSVPP249qV9fTpmqjgwNZFuab8zPk7M7VbGR\n0PFRMh8zoCbIxaQhbM2TnVI1SkI7VOeg5XCJKyUlWIurKwX5jw8ewZ6SaaxWXb/B\nmI4mTIOpQK0JoFrIwkUN8jV2IH0Vhi3ybGrLijdFYztBWwUHvKjMRu/fLr1tAjto\ncajrcy8flLrqQ04+l2rHE6pXXaAUI4LNBB8joWb3CwtfoOE14hNubd3rLol8GLoK\nPjlnj5VijDROINcOBKKFCeZJt7fK450cLmzZeA/z3EmV1pHsNQAWq50/xUtEc/2X\nCrgHMpq/AgMBAAECgf8Glh0jZehKLAmXdwR2780ysXC5QTn2JtFO3W/C8c94MM/o\nCjAu5Mi6XUYz+eT7Wl7wlKPv/VRvbDTvVlaoPUCNTmU0E7sH+V51EkIEmmWa03nV\n2rzQdO440KcvrlGAet8wuZS/KeE3uwtRfay6dl2viaLBG0KQn6T+GJE+F5nKNezH\nTIEcdaSgZcACZHthBFx90gZ0SxHbA6NLBR36+0OwNZkfvjxDK86XeG+c5mMRmCXH\nl11GY4+YC7JmVmJEEdpaPKF0pmwnmrgMjWQnboytmgG5iDE0T6ctQbR5czLtW24w\n1+u8Hf1+WSc85PkNiERD0aFFo15w932x1vqCIgECgYEAzgm0+6L+kaKnqlhVMbg8\nLHHmDp9uCA0x5kH2mq7SDFll/bkD2lMdy8cQ9WLmesxjvD5hhsoeN9qLvoPQm2O9\njKMcwUsLYwawIW9EXCWNt/G5X5SykmF7hfaHf2rgZHXp4ECKAQ0w9K9JKoFYdI8I\nzhtYgb2LbOOK6fBiCQR9WlECgYEAylvpKtaHiseMb5QLIbBBFw0od4w97slfxNNO\nASLrFR7UvyGJeZomc2kmYuTiyPbBsyC6q6hXPhTFM0xrcRV43FqNKgwahuwEcqFc\nEZwzYIotiEqnmEjRAH3VU1alOI0LE6wkkdzK/xN6ZmetRHxRYqHv43FqBSQ/HXod\n2sRRUA8CgYEAn4GESwr0aWqywn1/9u3aJ85FfCyQ0krkxo1qjHWqx0SuYK5K/Uo7\nVvbVeiMGqypwS9s/RUpT+omGhgcmCCY/KBFewYWHWzJiSIALPAsWm8DW8df8Jrax\nGhSw8UOcVCm01ZchP48mx0asLevUvue8uVMSQd6rgbDmahVez/xZzwECgYAVLO0H\naI+ifCM8AdfwXItTKDNV3z0T4cq9xAbjo43KFgHZRl8mdHUVmqlDrAP3V6sJXaFr\nGSCYBIBmT9bmbILLPEaNYdrcx5HnlO8XgKr3rT36hyVmkCgezwwlvmlns4q3MkpZ\nYSt06crjMHI3OnMhySRbPqEDjLl2EjNRkz2XDQKBgEDUCYH3VOMHbpsOub5OBYd1\nKMlKdk9jJ1aWx+JN+P8pLSCZZmDfA6FBI/vXuHt9ZRZDKMaj1zGDdNA/TI4VQm1l\nT8uf2Xlry3pHrL1m2FzSS/KGhz3xtNiZsUOo4xqCOMBYMeG09DUnytv0rGggecbw\nBggq+VdEmZuJ4WQl/FIw\n-----END PRIVATE KEY-----\n",
+  "client_email": "projeto-legenda@eighth-upgrade-379903.iam.gserviceaccount.com",
+  "client_id": "100413493100876703382",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/projeto-legenda%40eighth-upgrade-379903.iam.gserviceaccount.com"
+}
